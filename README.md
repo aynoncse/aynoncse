@@ -3,4 +3,4 @@ Hi, I'm **Sador Uddin Bhuiyan**. I've been working as a backend Web Developer in
 
 ![image](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-You may follow me on: [Facebook](https://www.facebook.com/mdaynon.bhuiyan) [Linked In](https://www.linkedin.com/in/aynoncse)
+You may follow me on: [**Facebook**](https://www.facebook.com/mdaynon.bhuiyan) | [**Linked In**](https://www.linkedin.com/in/aynoncse) | [**Twitter**](https://twitter.com/aynoncse)
