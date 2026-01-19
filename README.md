@@ -4,7 +4,7 @@
 
 <p align="left"> 
   <a href="https://www.linkedin.com/in/aynoncse/"><img height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="mailto:aynoncse@gmail.com"><img height="28" src="https://img.shields.io/badge/Email-aynon.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.facebook.com/aynoncse"><img height="28" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="https://x.com/aynoncse"><img height="28" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"></a> </p>
+  <a href="mailto:aynoncse@gmail.com"><img height="28" src="https://img.shields.io/badge/Email-aynoncse%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://www.facebook.com/aynoncse"><img height="28" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> <a href="https://x.com/aynoncse"><img height="28" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"></a> </p>
 👋 Hello — I build scalable backend systems & real-world digital products.
 
 I’m a Backend Engineer (6+ years) and Team Lead at THESOFTKING Ltd, specializing in:
