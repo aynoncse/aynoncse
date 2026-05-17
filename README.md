@@ -1,4 +1,4 @@
-﻿## Sador Uddin Bhuiyan Aynon
+## Sador Uddin Bhuiyan Aynon
 
 ### Software Engineer (Backend)
 
