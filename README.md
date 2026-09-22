@@ -126,13 +126,20 @@ I prioritize correctness, maintainability, simplicity, security, performance, an
 
 I use AI tools such as Claude Code and OpenAI Codex as engineering collaborators for exploration, debugging, planning, reviews, documentation, and learning. I validate the architecture, conventions, security implications, and production behavior behind every change.
 
+## GitHub Snapshot
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aynoncse&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true" alt="Aynon's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aynoncse&amp;layout=compact&amp;theme=transparent&amp;hide_border=true" alt="Aynon's most-used languages" />
+</p>
+
 ## Work With Me
 
 I am open to full-time software engineering roles, technical leadership opportunities, and digital product consultancy. If you need help planning, building, improving, or maintaining a web product, feel free to get in touch.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aynoncse/">LinkedIn</a> ·
-  <a href="mailto:aynoncse@gmail.com">Email</a> ·
-  <a href="https://www.facebook.com/aynoncse">Facebook</a> ·
-  <a href="https://x.com/aynoncse">X</a>
+  <a href="https://www.linkedin.com/in/aynoncse/"><img height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:aynoncse@gmail.com"><img height="28" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="https://www.facebook.com/aynoncse"><img height="28" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" /></a>
+  <a href="https://x.com/aynoncse"><img height="28" src="https://img.shields.io/badge/X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" /></a>
 </p>
