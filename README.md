@@ -129,8 +129,12 @@ I use AI tools such as Claude Code and OpenAI Codex as engineering collaborators
 ## GitHub Snapshot
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aynoncse&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true" alt="Aynon's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aynoncse&amp;layout=compact&amp;theme=transparent&amp;hide_border=true" alt="Aynon's most-used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aynoncse&amp;theme=github_dark" alt="Aynon's GitHub contribution summary" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aynoncse&amp;theme=github_dark" alt="Aynon's repositories by language" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aynoncse&amp;theme=github_dark" alt="Aynon's most-used commit languages" />
 </p>
 
 ## Work With Me
