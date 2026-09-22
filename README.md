@@ -1,91 +1,67 @@
-## Sador Uddin Bhuiyan Aynon
+# Sador Uddin Bhuiyan Aynon
 
-### Backend Engineer & Team Lead
+### Software Engineer (Backend) | PHP/Laravel | REST APIs | MySQL | JavaScript
 
-<p align="left">
-  <img height="28" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img height="28" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img height="28" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img height="28" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img height="28" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img height="28" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img height="28" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+I am a software engineer based in Bangladesh with 7+ years of professional experience, primarily building backend systems with PHP and Laravel. I work on SaaS products, REST APIs, authorization systems, database design, performance optimization, and production software that solves real business problems.
 
-<hr />
+## What I Do
 
-Backend engineer and team lead with 6+ years of experience building SaaS, fintech, ecommerce, and business platforms. I design reliable APIs, multi-tenant systems, background-processing workflows, and maintainable backend architecture with Laravel and Node.js.
+- Design and build maintainable Laravel backend systems and REST APIs
+- Model databases, optimize queries, and diagnose production issues
+- Build authentication, authorization, RBAC, multi-tenancy, subscriptions, and integrations
+- Translate product requirements into technical plans and practical implementation steps
+- Review code, mentor developers, and help teams deliver reliable software
 
-## About
+## Current Work
 
-I turn business requirements into dependable, production-ready software. My work spans API-first SaaS products, multi-tenant platforms, payments, ecommerce, and internal operational tools.
+I currently work at **Taploom** as a Fullstack Software Engineer. My core focus remains backend engineering with PHP and Laravel, alongside hands-on work with frontend integration, production support, realtime systems, and deployment.
 
-- Backend architecture with PHP, Laravel, Node.js, and Express.js
-- Database design and performance work with MySQL and MongoDB
-- Queues, caching, events, WebSockets, and real-time workflows
-- Team leadership, code reviews, and reliable delivery practices
+### Bubbl Business Messaging
 
-## Core Expertise
+I contribute to the Laravel backend and architecture of an API-focused business messaging platform. My work includes modular monolith design, organizations and business profiles, memberships, RBAC and permissions, API credentials and scopes, template workflows, signed webhooks with retries and dead-letter handling, queue workers, realtime messaging, Laravel Reverb, WebSockets, and admin workflows.
 
-- API architecture, authentication, authorization, and integrations
-- SaaS systems and multi-tenant platform design
-- Database performance, schema design, and query optimization
-- Background jobs, queues, events, and real-time processing
-- Frontend integration with React, Next.js, and Tailwind
-- Deployments on shared hosting, cPanel, and cloud platforms
+### Bubbl Dashboard
 
-## Technology
+I also work on a dashboard application using Laravel, MySQL, Next.js, and Firestore. Recent work includes production investigation and improvements around Firestore-to-MySQL synchronization, pagination and checkpoint correctness, query performance, authorization scope, scheduler and queue-worker verification, and date/time handling.
 
-**Backend**
+## Experience Highlights
 
-- PHP, Laravel, Node.js, Express.js
-- REST API, JWT, Sanctum, Passport
-- WebSockets, events, queues, background jobs
+- Previously served as **Team Lead at THESOFTKING Ltd.** until February 2026
+- Worked on and supervised development for 50+ CodeCanyon-related products and projects
+- Led technical task breakdown, database design, Laravel development, code review, mentoring, releases, and documentation
+- Built and supported SaaS products with multi-tenant architecture, billing, payments, custom domains, and automated operational workflows
 
-**Frontend Collaboration**
+## Selected Products
 
-- JavaScript (ES6+), React, Next.js
-- Tailwind CSS, responsive interfaces
+- [ViserBank](https://codecanyon.net/item/viserbank-digital-banking-system/33575024), digital banking platform
+- [ViserMart](https://codecanyon.net/item/visermart-ecommerce-shopping-platform/31542187), ecommerce platform
+- [LocalCoins](https://codecanyon.net/item/localcoins-ultimate-peer-to-peer-crypto-exchange-platform/34781557), peer-to-peer crypto exchange
+- [TwixHotel](https://script.viserlab.com/twixhotel/), hotel-management platform
+- Kothay, field-sales tracking and activity-management application
+- Funnel Pro SaaS, a multi-tenant Laravel platform with subscriptions, payments, domains, and a drag-and-drop builder
 
-**Database & Infrastructure**
+## Core Strengths
 
-- MySQL, MongoDB
-- Eloquent ORM, migrations, relationships
-- Git, GitHub, cPanel, and cloud deployment workflows
+| Area | Focus |
+| --- | --- |
+| Backend | PHP, Laravel, REST APIs, Eloquent ORM, modular application design |
+| Data | MySQL, PostgreSQL, database design, query and performance optimization |
+| Security | Authentication, authorization, RBAC, permissions, signed sessions, API credentials |
+| SaaS | Multi-tenancy, subscriptions, billing, integrations, background processing |
+| Delivery | Git, GitHub, code review, debugging, documentation, team coordination |
 
-## Selected Work
+## Expanding My Practice
 
-Products and platforms I have contributed to:
+I am deliberately deepening my practical experience in cloud and production infrastructure, including Azure App Service, DigitalOcean, GitHub Actions, CI/CD, Linux, nginx, PHP-FPM, Docker, Redis, queues, Supervisor, PM2, cron, Laravel Reverb, and WebSockets.
 
-- [**ViserBank**](https://codecanyon.net/item/viserbank-digital-banking-system/33575024) — Digital banking platform
-- [**ViserMart**](https://codecanyon.net/item/visermart-ecommerce-shopping-platform/31542187) — Ecommerce platform
-- [**LocalCoins**](https://codecanyon.net/item/localcoins-ultimate-peer-to-peer-crypto-exchange-platform/34781557) — Peer-to-peer crypto exchange
-- [**TwixHotel**](https://script.viserlab.com/twixhotel/) — Hotel management platform
-- [**KothayApp**](https://kothay.app/) — Field-sales tracking and activity-management application
+I am also strengthening complementary JavaScript skills with React, Next.js, Vite, Redux Toolkit, and Node.js. These support my backend work and full-stack collaboration.
 
-### Other Projects
+## How I Work
 
-- **FanelPro** — Sales funnel builder
-- **ViserRemit** — Remittance and payment transfer platform
-- **Ecoma** — Multivendor ecommerce marketplace
-- **ToryLab** — Inventory and business management system
+I prioritize correctness, maintainability, simplicity, security, performance, and scalability. I prefer pragmatic architecture, clear boundaries, and changes that fit the existing system rather than complexity for its own sake.
 
-## Current Focus
-
-- Building scalable SaaS products and internal business platforms
-- Building robust services with Laravel, Node.js, and Express.js
-- Deepening full-stack collaboration with Next.js and React
-- Delivering clean, maintainable systems that support growth
+I use tools such as Claude Code and OpenAI Codex as engineering collaborators for codebase exploration, debugging, planning, reviews, documentation, and learning. I still validate the architecture, conventions, security implications, and production behavior behind every change.
 
 ## Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/aynoncse/"><img height="28" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:aynoncse@gmail.com"><img height="28" src="https://img.shields.io/badge/Email-aynoncse%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.facebook.com/aynoncse"><img height="28" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://x.com/aynoncse"><img height="28" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-</p>
-
-## Contact
-
-Open to backend and full-stack opportunities. Reach me at [aynoncse@gmail.com](mailto:aynoncse@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/aynoncse/).
+[LinkedIn](https://www.linkedin.com/in/aynoncse/) · [Email](mailto:aynoncse@gmail.com) · [Facebook](https://www.facebook.com/aynoncse) · [X](https://x.com/aynoncse)
