@@ -126,15 +126,14 @@ I prioritize correctness, maintainability, simplicity, security, performance, an
 
 I use AI tools such as Claude Code and OpenAI Codex as engineering collaborators for exploration, debugging, planning, reviews, documentation, and learning. I validate the architecture, conventions, security implications, and production behavior behind every change.
 
-## GitHub Snapshot
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aynoncse&amp;theme=github_dark" alt="Aynon's GitHub contribution summary" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aynoncse&amp;theme=github_dark" alt="Aynon's GitHub contribution summary" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aynoncse&amp;theme=github_dark" alt="Aynon's repositories by language" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aynoncse&amp;theme=github_dark" alt="Aynon's most-used commit languages" />
+  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aynoncse&amp;theme=github_dark" alt="Aynon's repositories by language" /><img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aynoncse&amp;theme=github_dark" alt="Aynon's most-used commit languages" />
 </p>
 
 ## Work With Me
